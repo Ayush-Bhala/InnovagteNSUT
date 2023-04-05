@@ -1,2 +1,2 @@
-# InnovagteNSUT
+# InnovateNSUT
 Ctrl-Alt-Elite
